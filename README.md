@@ -1,14 +1,19 @@
+
 # reading-notes
+
 It is a way to document and highlight my new knowledge,during the course.
 
-# Course include: 
+# Course include 
+
 * ## ***Code 102*** - Intro to Software Development
 * ## ***Code 201*** - Foundations of Software Development
 * ## ***Code 301*** - Intermediate Software Development
 * ## ***Code 401*** - Advanced Software Development
 
+[](./preWorkFile.md)
+
 ---
-## DATA BASE and SQL:
+## DATA BASE and SQL
 ![My score](./assist/2023-06-10%20(3).png)
 
 Relational databases use tables to organize and store data, while SQL provides a standardized language for managing that data. Key concepts include tables with rows and columns, primary keys for unique identification, relationships between tables, joins to combine data from multiple tables, DML for data manipulation, DDL for defining and modifying the database structure, constraints to enforce data integrity, and indexes for improved query performance. Relational databases and SQL offer a powerful solution for managing structured data in various domains.
@@ -21,7 +26,7 @@ The command line, also known as the terminal, is a text-based interface that ena
 - The shell, such as Bash, interprets and executes the commands.
 - Utilizing shortcuts enhances productivity and efficiency within the command line.
 
-# commands for basic navigation:
+# commands for basic navigation
 1. `pwd` displays the current working directory.
 2. `ls` lists the contents of a directory.
 3. Paths can be absolute (starting from the root directory) or relative (relative to the current directory).
