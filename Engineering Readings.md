@@ -15,3 +15,4 @@ Second, I actively seek guidance and collaboration. I'm not afraid to reach out 
 Lastly, I practice patience and persistence. Programming can be challenging, and setbacks are inevitable. When faced with tough code or logic, I take a step back, clear my mind, and approach the problem with a fresh perspective. I'm open to exploring different approaches and alternative solutions. Sometimes, taking a short break and returning with a refreshed mindset leads to breakthroughs.
 
 I understand that becoming a proficient programmer takes time and effort. I embrace the learning journey, remain open to continuous improvement, and constantly strive to expand my knowledge and skills. My unique qualities and approaches will continue to evolve, making me a valuable asset in the field of programming.
+Things I want to know more about:
