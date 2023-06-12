@@ -26,3 +26,5 @@ To apply unit tests in a dishwasher, multiple test cases can be used. One such t
 3. Usage and Examples: Explain how to utilize the project's functionalities, accompanied by code snippets, sample inputs, or command-line instructions. This helps co-developers understand how to interact with the codebase effectively.
 
 4. Contribution Guidelines: Specify guidelines for submitting bug reports, feature requests, and code contributions. Additionally, outline any coding conventions, documentation standards, and the preferred workflow for collaboration.
+
+Things I want to know more about:
