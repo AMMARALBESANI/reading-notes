@@ -16,6 +16,9 @@ It is important to note that the examples given are very limited and do not incl
 
 ## How to: Read and write to a newly created data file
 This is a step-by-step guide to reading and writing newly created data files in .NET using the BinaryWriter and BinaryReader classes. 
-And the importance of FileMode.Create and FileMode.CreateNew to prevent exceptions when creating new files.
+And mention the importance of FileMode.Create and FileMode.CreateNew to prevent exceptions when creating new files.
+When using FileMode.Create, if the file already exists, it will be overwritten with an empty file. This means that if the file exists,
+it will be replaced without throwing an exception. If the file does not exist, a new file will be created.
+On the other hand, FileMode.CreateNew is more restrictive. If the file already exists, it will throw an IOException, indicating that the file already exists and cannot be created again. This prevents accidentally overwriting existing files.
 The process involves creating an empty file stream, using a BinaryWriter to write a series of integers to the file,
 and then using a BinaryReader to read and print integers from the file.
