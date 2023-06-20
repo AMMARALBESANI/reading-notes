@@ -14,4 +14,4 @@ By understanding the stack and heap, we can optimize how projects use memory. Al
 4. Compare “Garbage Collection” in C# with the lifecycle of normal household items.
 
 
-If we don't require anything, we discard it with C#'s garbage collection system. Similar to emptying a trash can, the garbage collector locates and eliminates unneeded things from memory. By automating memory deallocation, it reduces manual administration and guards against memory leaks. The trash collector in C# maintains memory organized without manual disposal, much as garbage collection keeps our houses tidy.
+Garbage collection in C# can be compared to the lifecycle of a normal household item, as both involve resource management. In C#, the garbage collector automatically handles memory allocation and deallocation, similar to how household items are disposed of when they are no longer needed. Just as a garbage collector ensures efficient storage management and prevents storage leaks, we dispose of household items properly and ensure a clean and tidy living environment.
