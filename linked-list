@@ -1,0 +1,25 @@
+A Linked List
+is a sequence of node that are connected/linked to each other. The most defining feature of a Linked List is that each node references the next node in the link.
+
+
+ there are two types of LinkedList:
+
+-liner: an order link lest in order and to reach to end we go through all the item 
+-nonlinear don't have to be arranged in order like (hashes)
+
+
+ the difference between array and LinkedList:
+-the main difference between array and LinkedList is the way we use memory in our machine 
+-arrays are static: to store 7 letters in the array we need 7 bytes of memory free and one next to the other 
+-linked lists are dynamic: we don't need a next-to-next byte 
+
+
+ general information about LinkedList:
+-linked list consist of a node containing data and the next node 
+-there are many shapes for linked list circular linked list doesn't end with null it has a tail and after the tail comes  the beginning node 
+-it better to use LinkedList  where we need to add elements not to search 
+
+ Big O:
+-Big O describes running time and memory space and describes the worst case of efficiency
+- we measure it in milliseconds, number of operations, and number of basic operations
+
