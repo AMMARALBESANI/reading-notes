@@ -32,4 +32,4 @@ Instead of considering upcoming implementations, the choice to use an interface 
 
 ## Avoiding Interface Abuse:
 
-interfaces can be misused, leading to increased coupling and dependency injection complexity. It’s crucial to balance testing and dependency injection by focusing on genuine decoupling and reducing dependencies in code design. Instead of relying solely on interface creation and injection, it’s beneficial to genuinely split classes and reduce dependencies by following SOLID principles such as the Single Responsibility Principle (SRP) and the Dependency Inversion Principle (DIP).
+interfaces can be misused, leading to increased coupling and dependency injection complexity. It’s crucial to balance testing and dependency injection by focusing on genuine decoupling and reducing dependencies in code design. Instead of relying solely on interface creation and insertion, it’s beneficial to genuinely split classes and reduce dependencies by following SOLID principles such as the Single Responsibility Principle (SRP) and the Dependency Inversion Principle (DIP).
