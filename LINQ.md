@@ -1,7 +1,9 @@
 ## LINQ
 
 The powerful C# programming language feature known as LINQ, or Language Integrated Query, enables programmers to do data manipulation and querying operations on a variety of data sources. Data from collections, databases, XML documents, and other sources may be accessed using LINQ's consistent and understandable syntax.
-AS Introduction to LINQ Queries: LINQ queries are created by combining the syntaxes for queries and methods. You may express queries declaratively using query syntax, which is similar to SQL syntax. Contrarily, method syntax chains together query operators using extension methods from the LINQ framework.
+
+## AS Introduction to LINQ Queries: 
+LINQ queries are created by combining the syntaxes for queries and methods. You may express queries declaratively using query syntax, which is similar to SQL syntax. Contrarily, method syntax chains together query operators using extension methods from the LINQ framework.
 
 ## Fundamental LINQ Query Operators
 
